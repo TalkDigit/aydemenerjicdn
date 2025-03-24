@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1686.6 465.6">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
+  <defs>
+    <style>
+      .st0 {
+        display: none;
+        fill: #d5503f;
+        font-family: AmerthaPERSONALUSEONLY, AmerthaPERSONALUSEONLY;
+        font-size: 65.2px;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <text class="st0" transform="translate(3941 -2665.3)"><tspan x="0" y="0">İyi ki</tspan></text>
+  <g>
+    <polyline class="st1" points="946.9 28.6 1124.2 59.8 1193.5 34.2"/>
+    <polyline class="st1" points="1189.2 32.5 1175.3 30 1189.2 24.9"/>
+    <line class="st1" x1="1199.6" y1="21.2" x2="1217.2" y2="14.7"/>
+    <line class="st1" x1="1199.6" y1="34.4" x2="1435.1" y2="75.5"/>
+    <line class="st1" x1="1460.3" y1="80" x2="1492.7" y2="85.6"/>
+    <line class="st1" x1="1416.7" y1="17.3" x2="1468.7" y2="26.1"/>
+    <line class="st1" x1="1469.5" y1="26.7" x2="1110.5" y2="158.9"/>
+    <line class="st1" x1="1090.8" y1="166.3" x2="372.1" y2="430.3"/>
+    <line class="st1" x1="1124.2" y1="59.8" x2="1016" y2="99.6"/>
+    <line class="st1" x1="984" y1="96.3" x2="1006.5" y2="100.2"/>
+    <polyline class="st1" points="1012.9 101.2 1072.7 112 930 164.4"/>
+    <line class="st1" x1="927.1" y1="164.4" x2="770.8" y2="137.4"/>
+    <line class="st1" x1="766.5" y1="135.5" x2="812.5" y2="118.5"/>
+    <line class="st1" x1="980.9" y1="95.8" x2="967.3" y2="93.4"/>
+    <line class="st1" x1="964.3" y1="92.8" x2="950.7" y2="90.5"/>
+    <line class="st1" x1="945.1" y1="89.5" x2="935.2" y2="87.8"/>
+    <polyline class="st1" points="1558.4 97 1675.3 117.9 1554.8 162.1"/>
+    <line class="st1" x1="1541.5" y1="167" x2="1401.7" y2="218.6"/>
+    <line class="st1" x1="1398.6" y1="219" x2="1113" y2="169.1"/>
+    <line class="st1" x1="1375" y1="168.1" x2="1179.1" y2="133.6"/>
+    <line class="st1" x1="1270.6" y1="100" x2="1409.3" y2="124.4"/>
+    <polyline class="st1" points="362.8 431.4 271.8 415.3 174.9 450.9 11.3 422.1 136 376.3"/>
+    <polyline class="st1" points="227.2 381.7 318.9 397.9 271.8 415.3"/>
+  </g>
+</svg>
